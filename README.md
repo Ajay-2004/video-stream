@@ -87,7 +87,8 @@ python3 main.py # run the bot.
 
 # continue the host with screen or anything else, thanks for reading.
 ```
-
+### Deploy On Railway
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Frailwayapp%2Fexamples%2Ftree%2Fmaster%2Fexamples%2Fflask&envs=ALIVE_NAME%2CAPI_HASH%2CAPI_ID%2CASSISTANT_NAME%2CBOT_NAME%2CBOT_TOKEN%2CBOT_USERNAME%2CGROUP_SUPPORT%2COWNER_NAME%2CSESSION_NAME%2CSUDO_USERS%2CUPDATES_CHANNEL&ALIVE_NAMEDesc=fill+with+your+telegram+account+nickname%2Fname&ASSISTANT_NAMEDesc=fill+with+the+assistant+username+account+without+%40&BOT_NAMEDesc=fill+with+your+bot+name+from+%40BotFather&BOT_TOKENDesc=your+bot+token+from+%40BotFather&BOT_USERNAMEDesc=your+bot+username+from+%40BotFather&GROUP_SUPPORTDesc=if+you+have+group%2C+then+fill+the+group+username+here+without+%40&OWNER_NAMEDesc=fill+with+your+telegram+account+username+without+%40&SESSION_NAMEDesc=fill+with+the+pyrogram+String+Session&SUDO_USERSDesc=list+of+user+ids+to+be+added+to+sudo+member+list%2C+or+just+fill+with+your+id&UPDATES_CHANNELDesc=if+you+have+channel%2C+then+fill+the+channel+username+here+without+%40&referralCode=Professor)
 # Credits 💖
 
 - [Levina](https://github.com/levina-lab) ``Dev``
